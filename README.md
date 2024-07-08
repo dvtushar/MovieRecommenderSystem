@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/MovieRecommenderSystem.git
+   git clone https://github.com/dvtushar/MovieRecommenderSystem.git
    cd MovieRecommenderSystem
 
 2. **Create a Virtual Environment**
@@ -49,21 +49,39 @@ To run this project locally, follow these steps:
 ## Model Training 
 The machine learning model is trained using collaborative filtering techniques on a dataset of more than 5000 movies and their reviews. The training process includes:
 
-Data Preprocessing: Cleaning and preparing the data for model training.
-Model Selection: Choosing the appropriate machine learning algorithms.
-Training: Training the model using the preprocessed data.
-Evaluation: Assessing the model's performance and making necessary adjustments.
+- **Data Preprocessing**: Cleaning and preparing the data for model training.
+- **Model Selection**: Choosing the appropriate machine learning algorithms.
+- **Training**: Training the model using the preprocessed data.
+- **Evaluation**: Assessing the model's performance and making necessary adjustments.
 
 ## Dataset
 The dataset used in this project comprises over 5000 movies and reviews. It includes information such as movie titles, genres, ratings, and user reviews.
 
 ## Contributing
-We welcome contributions to enhance the Movie Recommender System. To contribute, follow these steps:
 
-1.**Fork the Repository**
-   Create a Feature Branch
+We welcome contributions to enhance the Movie Recommender System. If you would like to contribute, please follow these steps:
+
+1. **Fork** the repository on GitHub.
+2. **Clone** the forked repository to your local machine.
    ```bash
-      git checkout -b feature/YourFeature
+   git clone https://github.com/dvtushar/MovieRecommenderSystem.git
+   cd MovieRecommenderSystem
+3. **Create a Feature Branch**
+   ```bash
+   git checkout -b feature/YourFeature
 
+4. **Commit Your Changes**
+   ```bash
+   git commit -m 'Add some feature'
+5. **Push to the Branch**
+   git push origin feature/YourFeature
 
+## Contact
+- **Author**: Tushar Dev
+- **Email**: tushardev.work@gmail.com
+- **GitHub**: dvtushar
+Thank you for checking out the Movie Recommender System! We hope you find it useful and enjoyable.
+PS: As the original size of the similarity.pkl file was exceeding 100mb find it on the following drive link: "https://drive.google.com/file/d/1oer00Z6X4vs_LGOolio1bHthv47UO3J6/view?usp=sharing"
+
+   
 
