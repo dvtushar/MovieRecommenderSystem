@@ -80,7 +80,9 @@ We welcome contributions to enhance the Movie Recommender System. If you would l
 - **Author**: Tushar Dev
 - **Email**: tushardev.work@gmail.com
 - **GitHub**: dvtushar
-Thank you for checking out the Movie Recommender System! We hope you find it useful and enjoyable.
+
+  
+.Thank you for checking out the Movie Recommender System! We hope you find it useful and enjoyable.
 PS: As the original size of the similarity.pkl file was exceeding 100mb find it on the following drive link: "https://drive.google.com/file/d/1oer00Z6X4vs_LGOolio1bHthv47UO3J6/view?usp=sharing"
 
    
