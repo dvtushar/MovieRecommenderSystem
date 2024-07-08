@@ -81,9 +81,12 @@ We welcome contributions to enhance the Movie Recommender System. If you would l
 - **Email**: tushardev.work@gmail.com
 - **GitHub**: dvtushar
 
-  
-.Thank you for checking out the Movie Recommender System! We hope you find it useful and enjoyable.
+Thank you for checking out the Movie Recommender System! We hope you find it useful and enjoyable.
 PS: As the original size of the similarity.pkl file was exceeding 100mb find it on the following drive link: "https://drive.google.com/file/d/1oer00Z6X4vs_LGOolio1bHthv47UO3J6/view?usp=sharing"
+## Screenshots of the running app 
+![image](https://github.com/dvtushar/MovieRecommenderSystem/assets/96177523/f3ed2da6-68cd-4379-843a-1b812c46b5dc)
+![image](https://github.com/dvtushar/MovieRecommenderSystem/assets/96177523/2c74b552-94b4-424d-a832-c05b656c84d1)
+
 
    
 
