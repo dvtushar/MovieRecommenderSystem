@@ -31,3 +31,39 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/MovieRecommenderSystem.git
    cd MovieRecommenderSystem
+
+2. **Create a Virtual Environment**
+    python3 -m venv env
+   source env/bin/activate  # On Windows, use `env\Scripts\activate`
+
+3. **Install Dependencies**
+   pip install -r requirements.txt
+
+## Usage
+1. **Run the Web Application**
+   ```bash
+   streamlit run app.py
+2. **Access the Application**
+   Open your browser and go to http://localhost:8501 to use the Movie Recommender System.
+
+## Model Training 
+The machine learning model is trained using collaborative filtering techniques on a dataset of more than 5000 movies and their reviews. The training process includes:
+
+Data Preprocessing: Cleaning and preparing the data for model training.
+Model Selection: Choosing the appropriate machine learning algorithms.
+Training: Training the model using the preprocessed data.
+Evaluation: Assessing the model's performance and making necessary adjustments.
+
+## Dataset
+The dataset used in this project comprises over 5000 movies and reviews. It includes information such as movie titles, genres, ratings, and user reviews.
+
+## Contributing
+We welcome contributions to enhance the Movie Recommender System. To contribute, follow these steps:
+
+1.**Fork the Repository**
+   Create a Feature Branch
+   ```bash
+      git checkout -b feature/YourFeature
+
+
+
